@@ -1,0 +1,199 @@
+﻿id,state,stop_date,stop_time,location_raw,county_name,county_fips,fine_grained_location,police_department,driver_gender,driver_age_raw,driver_age,driver_race_raw,driver_race,violation_raw,violation,search_conducted,search_type_raw,search_type,contraband_found,stop_outcome,is_arrested,ethnicity
+CA-2013-0000001,CA,01/01/2013,,San Diego,San Diego County,6073,,,M,25-32,,Hispanic,Hispanic,Mechanical or Nonmoving Violation (VC),Equipment,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000002,CA,01/01/2013,,San Diego,San Diego County,6073,,,F,33-39,,Black,Black,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,B
+CA-2013-0000003,CA,01/01/2013,,San Diego,San Diego County,6073,,,M,25-32,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000004,CA,01/01/2013,,San Diego,San Diego County,6073,,,M,49+,,White,White,Mechanical or Nonmoving Violation (VC),Equipment,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000005,CA,01/01/2013,,San Diego,San Diego County,6073,,,M,40-48,,Black,Black,Mechanical or Nonmoving Violation (VC),Equipment,FALSE,No Search,,FALSE,CHP 215,FALSE,B
+CA-2013-0000006,CA,01/01/2013,,San Diego,San Diego County,6073,,,M,40-48,,Black,Black,Mechanical or Nonmoving Violation (VC),Equipment,FALSE,No Search,,FALSE,CHP 215,FALSE,B
+CA-2013-0000007,CA,01/01/2013,,San Diego,San Diego County,6073,,,M,40-48,,Black,Black,Mechanical or Nonmoving Violation (VC),Equipment,FALSE,No Search,,FALSE,CHP 215,FALSE,B
+CA-2013-0000008,CA,01/01/2013,,San Diego,San Diego County,6073,,,M,40-48,,Hispanic,Hispanic,Motorist/Public Service,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,H
+CA-2013-0000009,CA,01/01/2013,,San Diego,San Diego County,6073,,,M,40-48,,Other,Other,Motorist/Public Service,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,O
+CA-2013-0000010,CA,01/01/2013,,San Diego,San Diego County,6073,,,F,33-39,,Hispanic,Hispanic,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000011,CA,01/01/2013,,Santa Ana,Orange County,6059,,,M,15-25,,Hispanic,Hispanic,DUI Check,DUI,FALSE,No Search,,FALSE,Verbal Warning,FALSE,H
+CA-2013-0000012,CA,01/01/2013,,Santa Ana,Orange County,6059,,,F,40-48,,Hispanic,Hispanic,DUI Check,DUI,FALSE,No Search,,FALSE,Verbal Warning,FALSE,H
+CA-2013-0000013,CA,01/01/2013,,Santa Ana,Orange County,6059,,,F,40-48,,Hispanic,Hispanic,DUI Check,DUI,FALSE,No Search,,FALSE,Verbal Warning,FALSE,H
+CA-2013-0000014,CA,01/01/2013,,Santa Ana,Orange County,6059,,,F,40-48,,Other Asian,Asian,DUI Check,DUI,FALSE,No Search,,FALSE,Verbal Warning,FALSE,A
+CA-2013-0000015,CA,01/01/2013,,Santa Ana,Orange County,6059,,,M,40-48,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,Verbal Warning,FALSE,W
+CA-2013-0000016,CA,01/01/2013,,Santa Ana,Orange County,6059,,,M,15-25,,Other Asian,Asian,DUI Check,DUI,FALSE,No Search,,FALSE,Verbal Warning,FALSE,A
+CA-2013-0000017,CA,01/01/2013,,Santa Ana,Orange County,6059,,,M,49+,,Hispanic,Hispanic,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000018,CA,01/01/2013,,Santa Ana,Orange County,6059,,,M,25-32,,Black,Black,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,B
+CA-2013-0000019,CA,01/01/2013,,Santa Ana,Orange County,6059,,,M,40-48,,Hispanic,Hispanic,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,Verbal Warning,FALSE,H
+CA-2013-0000020,CA,01/01/2013,,Santa Ana,Orange County,6059,,,F,40-48,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000021,CA,01/01/2013,,Santa Ana,Orange County,6059,,,M,40-48,,Other Asian,Asian,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,A
+CA-2013-0000022,CA,01/01/2013,,Santa Ana,Orange County,6059,,,M,49+,,Other Asian,Asian,DUI Check,DUI,FALSE,No Search,,FALSE,Verbal Warning,FALSE,A
+CA-2013-0000023,CA,01/01/2013,,Santa Ana,Orange County,6059,,,F,25-32,,Black,Black,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,B
+CA-2013-0000024,CA,01/01/2013,,Santa Cruz,Santa Cruz County,6087,,,M,15-25,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000025,CA,01/01/2013,,Santa Cruz,Santa Cruz County,6087,,,M,25-32,,Indian,Other,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,I
+CA-2013-0000026,CA,01/01/2013,,Santa Cruz,Santa Cruz County,6087,,,M,40-48,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000027,CA,01/01/2013,,Santa Cruz,Santa Cruz County,6087,,,M,40-48,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000028,CA,01/01/2013,,Santa Cruz,Santa Cruz County,6087,,,F,25-32,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000029,CA,01/01/2013,,Santa Cruz,Santa Cruz County,6087,,,F,33-39,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000030,CA,01/01/2013,,Santa Cruz,Santa Cruz County,6087,,,M,40-48,,White,White,Mechanical or Nonmoving Violation (VC),Equipment,TRUE,Vehicle Inventory,Inventory,,CHP 215,FALSE,W
+CA-2013-0000031,CA,01/01/2013,,Santa Cruz,Santa Cruz County,6087,,,F,15-25,,White,White,Motorist/Public Service,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,W
+CA-2013-0000032,CA,01/01/2013,,Santa Cruz,Santa Cruz County,6087,,,M,40-48,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000033,CA,01/01/2013,,Santa Cruz,Santa Cruz County,6087,,,M,33-39,,Other Asian,Asian,Motorist/Public Service,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,A
+CA-2013-0000034,CA,01/01/2013,,Santa Cruz,Santa Cruz County,6087,,,M,25-32,,Hispanic,Hispanic,Motorist/Public Service,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,H
+CA-2013-0000035,CA,01/01/2013,,Santa Cruz,Santa Cruz County,6087,,,M,15-25,,Other Asian,Asian,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,A
+CA-2013-0000036,CA,01/01/2013,,Modesto,Stanislaus County,6099,,,M,15-25,,Hispanic,Hispanic,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000037,CA,01/01/2013,,Modesto,Stanislaus County,6099,,,F,40-48,,Hispanic,Hispanic,Motorist/Public Service,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,H
+CA-2013-0000038,CA,01/01/2013,,Modesto,Stanislaus County,6099,,,F,25-32,,Black,Black,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,B
+CA-2013-0000039,CA,01/01/2013,,Modesto,Stanislaus County,6099,,,M,33-39,,White,White,Motorist/Public Service,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,W
+CA-2013-0000040,CA,01/01/2013,,Modesto,Stanislaus County,6099,,,F,25-32,,Other,Other,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,O
+CA-2013-0000041,CA,01/01/2013,,Modesto,Stanislaus County,6099,,,M,25-32,,Hispanic,Hispanic,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000042,CA,01/01/2013,,Modesto,Stanislaus County,6099,,,M,25-32,,Hispanic,Hispanic,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000043,CA,01/01/2013,,Modesto,Stanislaus County,6099,,,F,15-25,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000044,CA,01/01/2013,,Modesto,Stanislaus County,6099,,,M,25-32,,Other Asian,Asian,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,A
+CA-2013-0000045,CA,01/01/2013,,Modesto,Stanislaus County,6099,,,F,15-25,,Hispanic,Hispanic,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000046,CA,01/01/2013,,Nimitz Inspection Facility,Alameda County,6001,,,F,49+,,White,White,Inspection/Scale Facility,Other,FALSE,No Search,,FALSE,CVSA Sticker,FALSE,W
+CA-2013-0000047,CA,01/01/2013,,Nimitz Inspection Facility,Alameda County,6001,,,M,49+,,White,White,Inspection/Scale Facility,Other,FALSE,No Search,,FALSE,Verbal Warning,FALSE,W
+CA-2013-0000048,CA,01/01/2013,,San Onofre Inspection Facility,San Diego County,6073,,,M,40-48,,Hispanic,Hispanic,Inspection/Scale Facility,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,H
+CA-2013-0000049,CA,01/01/2013,,San Onofre Inspection Facility,San Diego County,6073,,,M,40-48,,White,White,Inspection/Scale Facility,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,W
+CA-2013-0000050,CA,01/01/2013,,San Onofre Inspection Facility,San Diego County,6073,,,M,40-48,,Hispanic,Hispanic,Inspection/Scale Facility,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,H
+CA-2013-0000051,CA,01/01/2013,,San Onofre Inspection Facility,San Diego County,6073,,,M,49+,,Hispanic,Hispanic,Inspection/Scale Facility,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,H
+CA-2013-0000052,CA,01/01/2013,,San Onofre Inspection Facility,San Diego County,6073,,,M,25-32,,White,White,Inspection/Scale Facility,Other,FALSE,No Search,,FALSE,CHP 281,FALSE,W
+CA-2013-0000053,CA,01/01/2013,,San Onofre Inspection Facility,San Diego County,6073,,,F,49+,,White,White,Inspection/Scale Facility,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,W
+CA-2013-0000054,CA,01/01/2013,,Buttonwillow,Kern County,6029,,,F,33-39,,Hispanic,Hispanic,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000055,CA,01/01/2013,,Buttonwillow,Kern County,6029,,,M,49+,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000056,CA,01/01/2013,,Buttonwillow,Kern County,6029,,,F,40-48,,White,White,Motorist/Public Service,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,W
+CA-2013-0000057,CA,01/01/2013,,Nimitz Inspection Facility,Alameda County,6001,,,M,40-48,,White,White,Inspection/Scale Facility,Other,FALSE,No Search,,FALSE,CVSA Sticker,FALSE,W
+CA-2013-0000058,CA,01/01/2013,,Nimitz Inspection Facility,Alameda County,6001,,,M,49+,,Hispanic,Hispanic,Inspection/Scale Facility,Other,FALSE,No Search,,FALSE,CVSA Sticker,FALSE,H
+CA-2013-0000059,CA,01/01/2013,,Westminster,Orange County,6059,,,F,15-25,,White,White,DUI Check,DUI,FALSE,No Search,,FALSE,Verbal Warning,FALSE,W
+CA-2013-0000060,CA,01/01/2013,,Westminster,Orange County,6059,,,M,25-32,,Hispanic,Hispanic,Moving Violation (VC),Moving violation,TRUE,Incidental to Arrest,Incident to Arrest,,Arrest,TRUE,H
+CA-2013-0000061,CA,01/01/2013,,Westminster,Orange County,6059,,,M,15-25,,Hispanic,Hispanic,Mechanical or Nonmoving Violation (VC),Equipment,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000062,CA,01/01/2013,,Westminster,Orange County,6059,,,M,25-32,,Other Asian,Asian,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,A
+CA-2013-0000063,CA,01/01/2013,,Redding,Shasta County,6089,,,M,49+,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000064,CA,01/01/2013,,Redding,Shasta County,6089,,,M,49+,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000065,CA,01/01/2013,,Redding,Shasta County,6089,,,F,15-25,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000066,CA,01/01/2013,,Redding,Shasta County,6089,,,M,40-48,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000067,CA,01/01/2013,,Redding,Shasta County,6089,,,M,40-48,,Japanese,Asian,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,J
+CA-2013-0000068,CA,01/01/2013,,Redding,Shasta County,6089,,,F,33-39,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000069,CA,01/01/2013,,Redding,Shasta County,6089,,,F,33-39,,Hispanic,Hispanic,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000070,CA,01/01/2013,,Redding,Shasta County,6089,,,M,40-48,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000071,CA,01/01/2013,,Redding,Shasta County,6089,,,M,40-48,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000072,CA,01/01/2013,,Redding,Shasta County,6089,,,M,33-39,,White,White,Mechanical or Nonmoving Violation (VC),Equipment,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000073,CA,01/01/2013,,Redding,Shasta County,6089,,,F,40-48,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000074,CA,01/01/2013,,Redding,Shasta County,6089,,,M,33-39,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000075,CA,01/01/2013,,Redding,Shasta County,6089,,,M,33-39,,Other Asian,Asian,Motorist/Public Service,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,A
+CA-2013-0000076,CA,01/01/2013,,Redding,Shasta County,6089,,,F,40-48,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000077,CA,01/01/2013,,Redding,Shasta County,6089,,,M,40-48,,Hispanic,Hispanic,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000078,CA,01/01/2013,,Redding,Shasta County,6089,,,F,40-48,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000079,CA,01/01/2013,,Redding,Shasta County,6089,,,M,33-39,,Other,Other,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,O
+CA-2013-0000080,CA,01/01/2013,,Redding,Shasta County,6089,,,M,40-48,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000081,CA,01/01/2013,,Redding,Shasta County,6089,,,F,15-25,,Hispanic,Hispanic,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000082,CA,01/01/2013,,Redding,Shasta County,6089,,,F,15-25,,Hispanic,Hispanic,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000083,CA,01/01/2013,,Redding,Shasta County,6089,,,M,15-25,,White,White,Motorist/Public Service,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,W
+CA-2013-0000084,CA,01/01/2013,,Redding,Shasta County,6089,,,M,40-48,,White,White,Motorist/Public Service,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,W
+CA-2013-0000085,CA,01/01/2013,,Redding,Shasta County,6089,,,M,25-32,,White,White,Motorist/Public Service,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,W
+CA-2013-0000086,CA,01/01/2013,,San Onofre Inspection Facility,San Diego County,6073,,,M,40-48,,Hispanic,Hispanic,Inspection/Scale Facility,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,H
+CA-2013-0000087,CA,01/01/2013,,San Onofre Inspection Facility,San Diego County,6073,,,M,40-48,,Hispanic,Hispanic,Inspection/Scale Facility,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,H
+CA-2013-0000088,CA,01/01/2013,,San Onofre Inspection Facility,San Diego County,6073,,,M,49+,,White,White,Inspection/Scale Facility,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,W
+CA-2013-0000089,CA,01/01/2013,,San Onofre Inspection Facility,San Diego County,6073,,,M,25-32,,Hispanic,Hispanic,Inspection/Scale Facility,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,H
+CA-2013-0000090,CA,01/01/2013,,San Onofre Inspection Facility,San Diego County,6073,,,M,40-48,,Other Asian,Asian,Inspection/Scale Facility,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,A
+CA-2013-0000091,CA,01/01/2013,,San Onofre Inspection Facility,San Diego County,6073,,,M,49+,,Other Asian,Asian,Inspection/Scale Facility,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,A
+CA-2013-0000092,CA,01/01/2013,,San Onofre Inspection Facility,San Diego County,6073,,,M,40-48,,Other Asian,Asian,Inspection/Scale Facility,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,A
+CA-2013-0000093,CA,01/01/2013,,San Onofre Inspection Facility,San Diego County,6073,,,M,40-48,,Hispanic,Hispanic,Inspection/Scale Facility,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,H
+CA-2013-0000094,CA,01/01/2013,,Santa Ana,Orange County,6059,,,F,49+,,Other Asian,Asian,DUI Check,DUI,FALSE,No Search,,FALSE,Verbal Warning,FALSE,A
+CA-2013-0000095,CA,01/01/2013,,Santa Ana,Orange County,6059,,,M,15-25,,Hispanic,Hispanic,DUI Check,DUI,TRUE,Incidental to Arrest,Incident to Arrest,,Arrest,TRUE,H
+CA-2013-0000096,CA,01/01/2013,,Santa Ana,Orange County,6059,,,F,25-32,,Other,Other,Motorist/Public Service,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,O
+CA-2013-0000097,CA,01/01/2013,,Santa Ana,Orange County,6059,,,F,25-32,,Other,Other,Traffic Collision,Other,FALSE,No Search,,FALSE,Traffic Collision,FALSE,O
+CA-2013-0000098,CA,01/01/2013,,Santa Ana,Orange County,6059,,,F,40-48,,White,White,Traffic Collision,Other,FALSE,No Search,,FALSE,Traffic Collision,FALSE,W
+CA-2013-0000099,CA,01/01/2013,,Redding,Shasta County,6089,,,F,25-32,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000100,CA,01/01/2013,,San Diego,San Diego County,6073,,,F,15-25,,Hispanic,Hispanic,Moving Violation (VC),Moving violation,TRUE,Incidental to Arrest,Incident to Arrest,,Arrest,TRUE,H
+CA-2013-0000101,CA,01/01/2013,,San Diego,San Diego County,6073,,,M,25-32,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000102,CA,01/01/2013,,San Diego,San Diego County,6073,,,M,25-32,,Other Asian,Asian,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,A
+CA-2013-0000103,CA,01/01/2013,,Central Los Angeles,Los Angeles County,6037,,,M,15-25,,Hispanic,Hispanic,Moving Violation (VC),Moving violation,TRUE,Incidental to Arrest,Incident to Arrest,,Arrest,TRUE,H
+CA-2013-0000104,CA,01/01/2013,,Central Los Angeles,Los Angeles County,6037,,,M,33-39,,Other,Other,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,O
+CA-2013-0000105,CA,01/01/2013,,Central Los Angeles,Los Angeles County,6037,,,M,49+,,Hispanic,Hispanic,Traffic Collision,Other,FALSE,No Search,,FALSE,Traffic Collision,FALSE,H
+CA-2013-0000106,CA,01/01/2013,,Capistrano,Orange County,6059,,,M,49+,,White,White,Traffic Collision,Other,TRUE,Incidental to Arrest,Incident to Arrest,,Arrest,TRUE,W
+CA-2013-0000107,CA,01/01/2013,,Capistrano,Orange County,6059,,,F,25-32,,White,White,Traffic Collision,Other,FALSE,No Search,,FALSE,Traffic Collision,FALSE,W
+CA-2013-0000108,CA,01/01/2013,,Capistrano,Orange County,6059,,,F,49+,,White,White,Motorist/Public Service,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,W
+CA-2013-0000109,CA,01/01/2013,,Capistrano,Orange County,6059,,,M,15-25,,White,White,Traffic Collision,Other,FALSE,No Search,,FALSE,Traffic Collision,FALSE,W
+CA-2013-0000110,CA,01/01/2013,,Capistrano,Orange County,6059,,,M,25-32,,White,White,Motorist/Public Service,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,W
+CA-2013-0000111,CA,01/01/2013,,Capistrano,Orange County,6059,,,F,15-25,,Hispanic,Hispanic,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000112,CA,01/01/2013,,Capistrano,Orange County,6059,,,M,15-25,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000113,CA,01/01/2013,,Capistrano,Orange County,6059,,,M,49+,,Other Asian,Asian,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,A
+CA-2013-0000114,CA,01/01/2013,,Capistrano,Orange County,6059,,,M,25-32,,White,White,Motorist/Public Service,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,W
+CA-2013-0000115,CA,01/01/2013,,Capistrano,Orange County,6059,,,M,40-48,,Hispanic,Hispanic,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000116,CA,01/01/2013,,Capistrano,Orange County,6059,,,F,15-25,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000117,CA,01/01/2013,,Capistrano,Orange County,6059,,,M,15-25,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000118,CA,01/01/2013,,Capistrano,Orange County,6059,,,F,33-39,,Black,Black,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,Verbal Warning,FALSE,B
+CA-2013-0000119,CA,01/01/2013,,Capistrano,Orange County,6059,,,F,15-25,,Hispanic,Hispanic,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000120,CA,01/01/2013,,Capistrano,Orange County,6059,,,M,33-39,,White,White,Motorist/Public Service,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,W
+CA-2013-0000121,CA,01/01/2013,,Capistrano,Orange County,6059,,,F,15-25,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000122,CA,01/01/2013,,Capistrano,Orange County,6059,,,F,49+,,White,White,Motorist/Public Service,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,W
+CA-2013-0000123,CA,01/01/2013,,Capistrano,Orange County,6059,,,M,25-32,,Hispanic,Hispanic,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000124,CA,01/01/2013,,Capistrano,Orange County,6059,,,F,40-48,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000125,CA,01/01/2013,,Capistrano,Orange County,6059,,,F,25-32,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000126,CA,01/01/2013,,Capistrano,Orange County,6059,,,M,49+,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000127,CA,01/01/2013,,Capistrano,Orange County,6059,,,M,40-48,,Black,Black,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,B
+CA-2013-0000128,CA,01/01/2013,,Capistrano,Orange County,6059,,,M,49+,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000129,CA,01/01/2013,,Capistrano,Orange County,6059,,,F,33-39,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000130,CA,01/01/2013,,Capistrano,Orange County,6059,,,F,33-39,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000131,CA,01/01/2013,,Capistrano,Orange County,6059,,,M,49+,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000132,CA,01/01/2013,,Capistrano,Orange County,6059,,,M,25-32,,Black,Black,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,B
+CA-2013-0000133,CA,01/01/2013,,Antelope Valley,Los Angeles County,6037,,,F,33-39,,Hispanic,Hispanic,DUI Check,DUI,FALSE,No Search,,FALSE,Verbal Warning,FALSE,H
+CA-2013-0000134,CA,01/01/2013,,Antelope Valley,Los Angeles County,6037,,,F,49+,,Black,Black,Motorist/Public Service,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,B
+CA-2013-0000135,CA,01/01/2013,,Antelope Valley,Los Angeles County,6037,,,F,15-25,,Hispanic,Hispanic,Motorist/Public Service,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,H
+CA-2013-0000136,CA,01/01/2013,,Central Los Angeles,Los Angeles County,6037,,,M,40-48,,Black,Black,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,Verbal Warning,FALSE,B
+CA-2013-0000137,CA,01/01/2013,,Central Los Angeles,Los Angeles County,6037,,,M,40-48,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000138,CA,01/01/2013,,Central Los Angeles,Los Angeles County,6037,,,M,15-25,,Hispanic,Hispanic,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000139,CA,01/01/2013,,Central Los Angeles,Los Angeles County,6037,,,F,33-39,,Hispanic,Hispanic,Traffic Collision,Other,FALSE,No Search,,FALSE,Traffic Collision,FALSE,H
+CA-2013-0000140,CA,01/01/2013,,Central Los Angeles,Los Angeles County,6037,,,F,40-48,,Black,Black,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,Verbal Warning,FALSE,B
+CA-2013-0000141,CA,01/01/2013,,Central Los Angeles,Los Angeles County,6037,,,F,25-32,,White,White,Traffic Collision,Other,FALSE,No Search,,FALSE,Traffic Collision,FALSE,W
+CA-2013-0000142,CA,01/01/2013,,West Los Angeles,Los Angeles County,6037,,,M,15-25,,Hispanic,Hispanic,Motorist/Public Service,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,H
+CA-2013-0000143,CA,01/01/2013,,West Los Angeles,Los Angeles County,6037,,,M,49+,,Hispanic,Hispanic,Motorist/Public Service,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,H
+CA-2013-0000144,CA,01/01/2013,,West Los Angeles,Los Angeles County,6037,,,F,25-32,,Hispanic,Hispanic,Motorist/Public Service,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,H
+CA-2013-0000145,CA,01/01/2013,,West Los Angeles,Los Angeles County,6037,,,M,33-39,,Hispanic,Hispanic,Motorist/Public Service,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,H
+CA-2013-0000146,CA,01/01/2013,,West Los Angeles,Los Angeles County,6037,,,F,25-32,,Black,Black,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,B
+CA-2013-0000147,CA,01/01/2013,,West Los Angeles,Los Angeles County,6037,,,M,15-25,,Hispanic,Hispanic,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000148,CA,01/01/2013,,West Los Angeles,Los Angeles County,6037,,,M,40-48,,Black,Black,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,B
+CA-2013-0000149,CA,01/01/2013,,West Los Angeles,Los Angeles County,6037,,,F,25-32,,Black,Black,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,B
+CA-2013-0000150,CA,01/01/2013,,West Los Angeles,Los Angeles County,6037,,,F,25-32,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000151,CA,01/01/2013,,San Diego,San Diego County,6073,,,M,0-14,,Black,Black,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,B
+CA-2013-0000152,CA,01/01/2013,,San Diego,San Diego County,6073,,,F,33-39,,Hispanic,Hispanic,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000153,CA,01/01/2013,,San Diego,San Diego County,6073,,,M,0-14,,Hispanic,Hispanic,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000154,CA,01/01/2013,,San Diego,San Diego County,6073,,,F,15-25,,Black,Black,Mechanical or Nonmoving Violation (VC),Equipment,TRUE,Vehicle Inventory,Inventory,,CHP 215,FALSE,B
+CA-2013-0000155,CA,01/01/2013,,San Diego,San Diego County,6073,,,F,40-48,,Hispanic,Hispanic,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000156,CA,01/01/2013,,San Diego,San Diego County,6073,,,F,15-25,,Hispanic,Hispanic,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000157,CA,01/01/2013,,San Diego,San Diego County,6073,,,F,40-48,,Hispanic,Hispanic,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000158,CA,01/01/2013,,San Diego,San Diego County,6073,,,F,40-48,,Hispanic,Hispanic,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000159,CA,01/01/2013,,San Diego,San Diego County,6073,,,F,40-48,,Hispanic,Hispanic,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000160,CA,01/01/2013,,San Diego,San Diego County,6073,,,M,15-25,,Hispanic,Hispanic,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000161,CA,01/01/2013,,San Diego,San Diego County,6073,,,M,0-14,,Other Asian,Asian,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,A
+CA-2013-0000162,CA,01/01/2013,,San Diego,San Diego County,6073,,,F,40-48,,Hispanic,Hispanic,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000163,CA,01/01/2013,,San Diego,San Diego County,6073,,,M,40-48,,Other Asian,Asian,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,A
+CA-2013-0000164,CA,01/01/2013,,San Diego,San Diego County,6073,,,M,15-25,,Hispanic,Hispanic,Mechanical or Nonmoving Violation (VC),Equipment,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000165,CA,01/01/2013,,San Diego,San Diego County,6073,,,M,33-39,,Other Asian,Asian,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,A
+CA-2013-0000166,CA,01/01/2013,,San Diego,San Diego County,6073,,,F,49+,,Other Asian,Asian,Mechanical or Nonmoving Violation (VC),Equipment,FALSE,No Search,,FALSE,CHP 215,FALSE,A
+CA-2013-0000167,CA,01/01/2013,,San Diego,San Diego County,6073,,,M,0-14,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000168,CA,01/01/2013,,San Diego,San Diego County,6073,,,M,40-48,,Hispanic,Hispanic,Mechanical or Nonmoving Violation (VC),Equipment,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000169,CA,01/01/2013,,San Diego,San Diego County,6073,,,F,0-14,,Hispanic,Hispanic,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000170,CA,01/01/2013,,Mt. Shasta,,,,,M,25-32,,Other Asian,Asian,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,A
+CA-2013-0000171,CA,01/01/2013,,Mt. Shasta,,,,,F,40-48,,Hispanic,Hispanic,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000172,CA,01/01/2013,,Mt. Shasta,,,,,M,25-32,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000173,CA,01/01/2013,,Mt. Shasta,,,,,M,15-25,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,Verbal Warning,FALSE,W
+CA-2013-0000174,CA,01/01/2013,,Mt. Shasta,,,,,M,40-48,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000175,CA,01/01/2013,,Mt. Shasta,,,,,F,25-32,,Other Asian,Asian,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,A
+CA-2013-0000176,CA,01/01/2013,,Mt. Shasta,,,,,M,33-39,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000177,CA,01/01/2013,,Capistrano,Orange County,6059,,,M,40-48,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,Verbal Warning,FALSE,W
+CA-2013-0000178,CA,01/01/2013,,Capistrano,Orange County,6059,,,M,15-25,,Other Asian,Asian,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,A
+CA-2013-0000179,CA,01/01/2013,,Capistrano,Orange County,6059,,,M,49+,,White,White,Mechanical or Nonmoving Violation (VC),Equipment,FALSE,No Search,,FALSE,Verbal Warning,FALSE,W
+CA-2013-0000180,CA,01/01/2013,,Capistrano,Orange County,6059,,,M,25-32,,Other Asian,Asian,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,A
+CA-2013-0000181,CA,01/01/2013,,Capistrano,Orange County,6059,,,M,25-32,,Hispanic,Hispanic,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000182,CA,01/01/2013,,Capistrano,Orange County,6059,,,M,33-39,,Hispanic,Hispanic,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000183,CA,01/01/2013,,Capistrano,Orange County,6059,,,M,49+,,Hispanic,Hispanic,Mechanical or Nonmoving Violation (VC),Equipment,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000184,CA,01/01/2013,,Capistrano,Orange County,6059,,,F,15-25,,White,White,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000185,CA,01/01/2013,,Capistrano,Orange County,6059,,,M,25-32,,Other Asian,Asian,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,A
+CA-2013-0000186,CA,01/01/2013,,Capistrano,Orange County,6059,,,F,33-39,,Vietnamese,Asian,Mechanical or Nonmoving Violation (VC),Equipment,FALSE,No Search,,FALSE,CHP 215,FALSE,V
+CA-2013-0000187,CA,01/01/2013,,Capistrano,Orange County,6059,,,F,49+,,Other,Other,Mechanical or Nonmoving Violation (VC),Equipment,FALSE,No Search,,FALSE,CHP 215,FALSE,O
+CA-2013-0000188,CA,01/01/2013,,Capistrano,Orange County,6059,,,M,15-25,,Hispanic,Hispanic,Moving Violation (VC),Moving violation,FALSE,No Search,,FALSE,CHP 215,FALSE,H
+CA-2013-0000189,CA,01/01/2013,,Capistrano,Orange County,6059,,,M,49+,,Hispanic,Hispanic,Traffic Collision,Other,FALSE,No Search,,FALSE,Traffic Collision,FALSE,H
+CA-2013-0000190,CA,01/01/2013,,Capistrano,Orange County,6059,,,M,40-48,,Hispanic,Hispanic,Motorist/Public Service,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,H
+CA-2013-0000191,CA,01/01/2013,,San Jose,Santa Clara County,6085,,,M,40-48,,Other Asian,Asian,Traffic Collision,Other,FALSE,No Search,,FALSE,Traffic Collision,FALSE,A
+CA-2013-0000192,CA,01/01/2013,,San Jose,Santa Clara County,6085,,,M,25-32,,Hispanic,Hispanic,Motorist/Public Service,Other,FALSE,No Search,,FALSE,Motorist/Public Service,FALSE,H
+CA-2013-0000193,CA,01/01/2013,,Fresno,Fresno County,6019,,,M,33-39,,White,White,Inspection/Scale Facility,Other,FALSE,No Search,,FALSE,Verbal Warning,FALSE,W
+CA-2013-0000194,CA,01/01/2013,,Fresno,Fresno County,6019,,,M,40-48,,White,White,Inspection/Scale Facility,Other,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000195,CA,01/01/2013,,Fresno,Fresno County,6019,,,M,33-39,,White,White,Inspection/Scale Facility,Other,FALSE,No Search,,FALSE,CHP 215,FALSE,W
+CA-2013-0000196,CA,01/01/2013,,San Bernadino,San Bernardino County,6071,,,M,49+,,White,White,Inspection/Scale Facility,Other,FALSE,No Search,,FALSE,Verbal Warning,FALSE,W
+CA-2013-0000197,CA,01/01/2013,,San Bernadino,San Bernardino County,6071,,,M,49+,,White,White,Inspection/Scale Facility,Other,FALSE,No Search,,FALSE,CVSA Sticker,FALSE,W
+CA-2013-0000198,CA,01/01/2013,,San Bernadino,San Bernardino County,6071,,,M,40-48,,Hispanic,Hispanic,Inspection/Scale Facility,Other,FALSE,No Search,,FALSE,CVSA Sticker,FALSE,H
